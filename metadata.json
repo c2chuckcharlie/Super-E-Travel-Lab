@@ -1,0 +1,7 @@
+{
+  "name": "Super E Travel Lab",
+  "description": "A step-by-step AI-powered guide for Executive MBA students to transform travel itineraries into strategic business ecosystems.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
